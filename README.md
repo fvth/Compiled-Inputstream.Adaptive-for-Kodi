@@ -1,12 +1,9 @@
-__Draft__
-
-# Compiled "Inputstream.Adaptive" for Kodi
+# Compiled "Inputstream.Adaptive" for Kodi Nexus
 
 ## About 
 The inputstream.adaptive for Raspberry Pi, Linux, 64bit (aarch64 / arm64) Kodi Matrix and Nexus.
 
 Based on: https://github.com/xbmc/inputstream.adaptive/releases
-
 Build via instructions: https://github.com/xbmc/inputstream.adaptive/wiki/How-to-build
 
 ## Other
